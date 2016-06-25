@@ -22,3 +22,9 @@ body{
     margin: auto;
     height:300px;
 }
+.carousel-caption{
+    text-align: center;
+    font-size: 150%;
+    font-weight: bolder;
+
+}
