@@ -9,7 +9,10 @@ body{
     margin-top:20px;
 
 }
+.panel{
+    margin: 0 auto;
 
+}
 #signup{
     float:right;
 }
@@ -27,4 +30,31 @@ body{
     font-size: 150%;
     font-weight: bolder;
 
+}
+.footer{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-color: #2f2f2f; /* Black Gray */
+    color: #fff;
+}
+.footerlist{
+    list-style-type: none;
+    overflow: hidden;
+}
+.footerlist li{
+    display:inline-block;
+}
+
+
+table{
+    margin:0 auto;
+}
+.btn-yellow{
+    background-color: yellow;
+}
+.btn-pink{
+    background-color: deeppink;
+}
+.btn-orange{
+    background-color: darkorange;
 }
